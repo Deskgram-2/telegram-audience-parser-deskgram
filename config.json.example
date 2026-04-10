@@ -1,0 +1,28 @@
+{
+  "module": "collect_audience",
+  "sources": [
+    "https://t.me/example_chat_1",
+    "https://t.me/example_chat_2"
+  ],
+  "collection_mode": "all_members",
+  "filters": {
+    "exclude_bots": true,
+    "with_avatar_only": false,
+    "premium_only": false,
+    "stories_only": false,
+    "hidden_status": "allow"
+  },
+  "activity_window": {
+    "mode": "days",
+    "from": 1,
+    "to": 30
+  },
+  "performance": {
+    "accounts_per_run": 4,
+    "chats_per_account": 2
+  },
+  "export": {
+    "format": "csv",
+    "fields": ["id", "username", "first_name", "premium", "last_online"]
+  }
+}
