@@ -41,6 +41,15 @@
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если нужно распределить и подготовить аккаунты под дальнейшую работу.
 - [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если сначала нужно подготовить окружение для дальнейших сценариев.
 
+## Как связать этот модуль с discovery и growth-цепочками
+
+- [Поиск каналов и групп](https://github.com/Deskgram-2/telegram-channel-search-deskgram), если сначала нужно найти релевантные площадки;
+- [Поиск похожих каналов](https://github.com/Deskgram-2/telegram-similar-channels-deskgram), если вы масштабируете discovery от seed-каналов;
+- [Сбор аудитории из комментариев](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram), если нужна более вовлеченная база;
+- [Сбор писавших в чатах](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram), если вы собираете активных участников обсуждений;
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram), если база дальше идет в AI-коммуникацию;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если важно видеть весь путь от discovery до коммуникации в одном месте.
+
 ## Интерфейс модуля
 
 ### Главный экран
@@ -84,6 +93,10 @@
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Поиск каналов и групп](https://github.com/Deskgram-2/telegram-channel-search-deskgram)
+- [Поиск похожих каналов](https://github.com/Deskgram-2/telegram-similar-channels-deskgram)
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
