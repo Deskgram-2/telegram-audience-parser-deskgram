@@ -34,6 +34,13 @@
 4. Выберите формат экспорта.
 5. Назначьте аккаунты и запустите задачу.
 
+## Куда идти после сбора
+
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если база нужна под личные сообщения.
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если база будет использоваться для роста групп и каналов.
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если нужно распределить и подготовить аккаунты под дальнейшую работу.
+- [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если сначала нужно подготовить окружение для дальнейших сценариев.
+
 ## Интерфейс модуля
 
 ### Главный экран
@@ -76,6 +83,7 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 
 ## FAQ
 
