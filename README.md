@@ -1,15 +1,15 @@
-# Сбор аудитории из Telegram чатов через Deskgram 2
+﻿# Сбор аудитории из Telegram чатов через Deskgram 2
 
 ![Collect Audience Main](assets/screenshots/collect-audience__main__ru.png)
 
 `Сбор аудитории` — это модуль Deskgram 2 для парсинга пользователей из Telegram-групп и чатов. Он помогает собирать базу под рассылки, инвайт и сегментацию, используя фильтры по активности, скрытому статусу, фото, Premium и другим признакам.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcollect_audience&lang=ru)
 
 Если хотите сначала понять, подходит ли вам этот сценарий, откройте веб-превью: так проще оценить интерфейс, сравнить модуль с соседними разделами и только потом переходить к установке и настройке.
 
@@ -181,4 +181,5 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Сайт Deskgram 2](https://deskgram2.com/)
 - [Telegram-бот Deskgram 2](https://t.me/DG2welcomebot)
-- [Web preview](https://deskgram2.com/web-preview)
+- [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
+
